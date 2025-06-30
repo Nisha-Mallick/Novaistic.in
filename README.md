@@ -44,3 +44,7 @@ step 3- Install tailwind css and dependencies by running this two commands:
 step 4- Don't modify the following files: 
           . postcss.config.js
           . package-log.json
+step 5- replace the following files code with the same files having the same name you will get after installing tailwindcss to run the code error free: 
+          . tailwind.config.js
+          . package.json
+now successfully your project has been set-up.
